@@ -1,0 +1,8 @@
+tensorflow-macos==2.13.0
+tensorflow-metal==0.5.0        # Only for Apple Silicon (M1/M2/M3)
+opencv-python-headless==4.9.0.80
+matplotlib==3.7.1
+numpy==1.24.3
+Pillow==9.5.0
+scikit-learn==1.2.2
+rembg==2.0.50
