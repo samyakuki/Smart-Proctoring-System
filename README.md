@@ -21,7 +21,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
 - If you want GPU support on Windows, follow TensorFlow's official GPU setup guide for CUDA/cuDNN and ensure installed `tensorflow` matches the required CUDA version.
-
-If you want, I can:
-- Replace the project's `requirements.txt` with the Windows version, or
-- Run a quick compatibility checklist (Python version, pip) and produce exact install commands for your environment.
